@@ -4,7 +4,6 @@ const co = require('co');
 const Wit = require('node-wit').Wit;
 const Stocks = require('./lib/stocks');
 
-//TQQOBBTS4KDBLO2LZANDGORBVNTI3UGH
 const token = (() => {
   if (process.argv.length !== 3) {
     console.log('usage: node index.js <wit-token>');
