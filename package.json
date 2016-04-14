@@ -1,0 +1,22 @@
+{
+  "name": "wit-stocks",
+  "version": "0.0.1",
+  "description": "wit that retrieves the current price of a given symbol",
+  "keywords": [
+    "wit",
+    "bot",
+    "stocks"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/nrotta/wit-stocks",
+  "author": "Nicolas Rotta <nicolasrotta@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "node-wit": "^3.0.1",
+    "yqlp": "^0.2.0"
+  }
+}
