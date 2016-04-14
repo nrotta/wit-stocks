@@ -1,5 +1,5 @@
 # wit-stocks
-You can test it by runnnig:
+You can test it by running:
 ```javascript
 node index.js TQQOBBTS4KDBLO2LZANDGORBVNTI3UGH
 ```
